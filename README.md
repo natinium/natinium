@@ -19,9 +19,9 @@ exam-prep for Ethiopian students · next: an AI-native dev tool.
 
 <a href="https://github.com/natinium/level-up-web">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=natinium&repo=level-up-web&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=natinium&repo=level-up-web&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natinium&repo=level-up-web&hide_border=true" />
+    <source srcset="https://natinium-readme-stats.vercel.app/api/pin/?username=natinium&repo=level-up-web&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://natinium-readme-stats.vercel.app/api/pin/?username=natinium&repo=level-up-web&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://natinium-readme-stats.vercel.app/api/pin/?username=natinium&repo=level-up-web&hide_border=true" />
   </picture>
 </a>
 
@@ -30,9 +30,9 @@ exam-prep for Ethiopian students · next: an AI-native dev tool.
 ### Telemetry
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=natinium&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=natinium&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=natinium&show_icons=true&hide_border=true" />
+  <source srcset="https://natinium-readme-stats.vercel.app/api?username=natinium&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://natinium-readme-stats.vercel.app/api?username=natinium&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://natinium-readme-stats.vercel.app/api?username=natinium&show_icons=true&hide_border=true" />
 </picture>
 
 <picture>
